@@ -1,5 +1,9 @@
 import React from "react";
 
+// Most React developers use a special syntax called “JSX” which makes these
+// structures easier to write. The <div /> syntax is transformed at build
+// time to React.createElement('div'). The example above is equivalent to:
+
 var card1 = document.getElementById("card1");
 var card2 = document.getElementById("card2");
 var card3 = document.getElementById("card3");

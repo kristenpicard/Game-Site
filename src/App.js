@@ -1,12 +1,10 @@
-import "./App.css";
-import Card from "./components/Card";
+import Card from "./components/TicTacToe/Card/index.js";
 
 function App() {
   return (
     <>
       <Card />
       <br></br>
-      <Card />
     </>
   );
 }
