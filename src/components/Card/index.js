@@ -1,13 +1,12 @@
 import React from "react";
-import Game from "../Game/Game.js";
 import styles from "./Card.module.css";
 
-function Card() {
+function Card(props) {
   return (
     <>
       <div className={styles.Card}>
-        <h1>Tic Tac Toe</h1>
-        <Game></Game>
+        <h1>{props.title}</h1>
+        {props.children}
       </div>
     </>
   );

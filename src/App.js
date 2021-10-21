@@ -1,11 +1,12 @@
+import Card from "./components/Card/index.js";
 import Header from "./components/Header/header.js";
-import Card from "./components/TicTacToe/Card/index.js";
+import Game from "./components/TicTacToe/Game/Game.js";
 
 function App() {
   return (
     <>
       <Header />
-      <Card />
+      <Card title={"Tic Tac Toe"} children={<Game />} />
     </>
   );
 }
