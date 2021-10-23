@@ -374,7 +374,13 @@ class Game extends React.Component {
     let win = this.winner !== "" ? this.winner + " wins!" : " ";
     return (
       <>
+        <div>
+          Play a partner and whoever
+          <br></br>
+          gets three in a row first, wins!
+        </div>
         <div className="gameWrap">
+          <br></br>
           <Table
             clickHandler={this.handleClick}
             button1id="button1"

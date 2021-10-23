@@ -352,6 +352,10 @@ class Game extends React.Component {
   render() {
     return (
       <>
+        <div>
+          Flip the cards and try and get all 4<br></br>
+          matches in as few tries as you can!
+        </div>
         <br></br>
         <Table
           clickHandler={this.handleClick}
