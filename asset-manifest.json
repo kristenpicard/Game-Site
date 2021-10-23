@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Match-Game/static/css/main.4e930572.chunk.css",
-    "main.js": "/Match-Game/static/js/main.582bbf43.chunk.js",
-    "main.js.map": "/Match-Game/static/js/main.582bbf43.chunk.js.map",
-    "runtime-main.js": "/Match-Game/static/js/runtime-main.becfa8d0.js",
-    "runtime-main.js.map": "/Match-Game/static/js/runtime-main.becfa8d0.js.map",
-    "static/js/2.e5692357.chunk.js": "/Match-Game/static/js/2.e5692357.chunk.js",
-    "static/js/2.e5692357.chunk.js.map": "/Match-Game/static/js/2.e5692357.chunk.js.map",
-    "index.html": "/Match-Game/index.html",
-    "static/css/main.4e930572.chunk.css.map": "/Match-Game/static/css/main.4e930572.chunk.css.map",
-    "static/js/2.e5692357.chunk.js.LICENSE.txt": "/Match-Game/static/js/2.e5692357.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Match-Game/static/media/cards.86473785.jpg"
+    "main.css": "/Game-Site/static/css/main.ab0497c4.chunk.css",
+    "main.js": "/Game-Site/static/js/main.582bbf43.chunk.js",
+    "main.js.map": "/Game-Site/static/js/main.582bbf43.chunk.js.map",
+    "runtime-main.js": "/Game-Site/static/js/runtime-main.443f4ccf.js",
+    "runtime-main.js.map": "/Game-Site/static/js/runtime-main.443f4ccf.js.map",
+    "static/js/2.e5692357.chunk.js": "/Game-Site/static/js/2.e5692357.chunk.js",
+    "static/js/2.e5692357.chunk.js.map": "/Game-Site/static/js/2.e5692357.chunk.js.map",
+    "index.html": "/Game-Site/index.html",
+    "static/css/main.ab0497c4.chunk.css.map": "/Game-Site/static/css/main.ab0497c4.chunk.css.map",
+    "static/js/2.e5692357.chunk.js.LICENSE.txt": "/Game-Site/static/js/2.e5692357.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Game-Site/static/media/cards.86473785.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.becfa8d0.js",
+    "static/js/runtime-main.443f4ccf.js",
     "static/js/2.e5692357.chunk.js",
-    "static/css/main.4e930572.chunk.css",
+    "static/css/main.ab0497c4.chunk.css",
     "static/js/main.582bbf43.chunk.js"
   ]
 }
