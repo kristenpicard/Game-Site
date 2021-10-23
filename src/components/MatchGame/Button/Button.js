@@ -1,11 +1,11 @@
 import React from "react";
-import "../Game/Game.css";
+import "../Game/matchGame.css";
 
 function Button(props) {
   return (
     <>
       <button
-        className="tictactoeButton"
+        className="matchgameButton"
         onClick={props.clickHandler}
         id={props.id}
       >
